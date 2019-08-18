@@ -1,11 +1,11 @@
 # Site
-name: "ChangHyun-Nam"
+name: "TabloNi's Blog"
 title: "TabloNi's Blog"
 description: "TabloNi's personal blog."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/tabloni.github.io/'
-google_analytics: 'UA-46278016-1'
+baseurl: '/tabloni.github.io'
+google_analytics: 'UA-145849280-1'
 disqus: 'Blog'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
