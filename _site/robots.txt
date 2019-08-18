@@ -1,1 +1,2 @@
-Sitemap: http://localhost:4000/mediumish-theme-jekyll/sitemap.xml
+User-agent: *
+Allow:/
