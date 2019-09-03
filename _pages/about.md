@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About TabloNi
 permalink: /about
 comments: true
 ---
@@ -8,9 +8,13 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<h4>Hello! My name is ChangHyun-Nam a.k.a TabloNi.</h4>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+<p>I'm Junior mobile developer. I develop mobile through Android and Swift. I like new Some skills and language. and I also do that. Nice to meet you!
+</p>
+
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/rabbit.jpeg" alt="jekyll template mediumish" /></p>
+
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
@@ -24,11 +28,14 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Learn more about me!</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<a>Thank you for visiting on this blog!</a>
+<p>For more information, please visit my github!</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p><a target="_blank" href="https://github.com/TabloNi">TabloNi's github <i class="fab fa-github"></i></a></p>
+
+<a target="_blank" href="https://www.facebook.com/tabloni0719/" class="btn btn-danger">FaceBook</a> <a target="_blank" href="https://www.instagram.com/tabloni0719/" class="btn btn-warning">Instagram</a>
 
 </div>
 </div>
