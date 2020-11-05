@@ -1,81 +1,43 @@
-# Site
-name: "TabloNi's Blog"
-title: "TabloNi's Blog"
-description: "TabloNi's personal blog."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: '/tabloni.github.io'
-google_analytics: 'UA-145849280-1'
-disqus: 'Blog'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
-permalink: /:title/
+title: Hamilton
+description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+author: Shangzhi Huang
+avatar: /logo.png
+email: ngzhio@gmail.com
 
-# Authors
-authors:
-  TabloNi:
-    name: ChangHyun-Nam
-    display_name: TabloNi
-    avatar: 'assets/images/avatar.png'
-    gravatar: gravatargravatar
-    email: tabloni0719@gmail.comss
-    web: https://tabloni.github.io
-    # twitter: https://twitter.com/wowthemesnet
-    description: "Hello! My name is ChangHyun Nam a.k.a TabloNi. Student at ajou university. Android Programmer."
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
-# Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
-paginate: 6
-paginate_path: /page:num/
-    
-# Other
-markdown: kramdown
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+paginate: 10
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
-adsense-data-ad-client: "ca-pub-7763553316145026"
-adsense-data-ad-slot: "1363087678"
+# Uncomment the below line and set the tracking ID for enabling Google Analytics
+# 
+# google_analytics: 
 
-# Lazy Images ("enabled" or "disabled")
-lazyimages: "enabled"
+# Uncomment the below lines and set the Disqus shortname for enabling Disqus
+# 
+# disqus:
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+# Jekyll
+# ======
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
+
+# Jekyll SEO Tag (Optional)
+# =========================
+twitter:
+  username: ngzhio
+  card: summary
+logo: logo.png
+social:
+  name: Shangzhi Huang
+  links:
+    - https://twitter.com/ngzhio
+    - https://www.facebook.com/ngzhio
+    - https://github.com/ngzhio
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
+lang: en
