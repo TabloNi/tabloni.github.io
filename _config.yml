@@ -1,7 +1,7 @@
 title: TabloNi's Blog
 description: 언젠가는 세상을 깜짝 놀라게할 꿈 많은 대학생
 author: TabloNi
-avatar: /logo.png
+avatar: /logos.png
 email: tabloni0719@ajou.ac.kr
 
 plugins:
@@ -34,7 +34,7 @@ exclude:
 twitter:
   username: ngzhio
   card: summary
-logo: logo.png
+logo: logos.png
 social:
   name: Shangzhi Huang
   links:
@@ -42,4 +42,4 @@ social:
     - https://www.facebook.com/ngzhio
     - https://github.com/ngzhio
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: ko
