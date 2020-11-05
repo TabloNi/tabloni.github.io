@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: TabloNi's Blog
+description: 언젠가는 세상을 깜짝 놀라게할 꿈 많은 대학생
+author: TabloNi
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: tabloni0719@ajou.ac.kr
 
 plugins:
   - jekyll-seo-tag
