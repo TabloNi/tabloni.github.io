@@ -17,15 +17,17 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: 캐치 & 팜
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: 2020.09.08 - Present
+  subtitle: 제가 여러 활동들을 진행하며 사람들을 만나고 다니다가 약학과의 한 선배님께서 사업 아이템이 있다고 같이 사업 제안을 해주셨습니다 그 내용은
+개개인에게 맞는 영양제를 추천해 주고 그 영양제를 단순히 구매하는 것이 아닌 직접 소분까지 하여 나만의 영양제를 만든다는 내용이었는데 저는 해
+당 아이템에서 안드로이드 앱 개발을 진행하기로 하였습니다 저희는 뜻이 맞는 팀원을 모아 정기적으로 회의를 하며 사업 계획서를 작성하게 되었고
+해당 활동을 진행하며 기획력을 한층 더 높일 수 있게 되었습니다
+
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Android studio
+    - tag: 사업 계획서 작성
   timeline-side: right
 
 - title: Google
