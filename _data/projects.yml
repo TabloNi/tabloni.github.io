@@ -14,11 +14,11 @@
 #     - tag: Node
 
 - name: 프로젝트 정리중
-  descr: 현재 해당 보시고 계신 블로그를 개편하면서 프로젝트 또한 함께 정리중이기 때문에, 우선 제 github과 resume의 참고를 부탁드리고 싶습니다. 감사합니다.
-  resume: https://drive.google.com/file/d/1_M8xNS07Apj2tUrq2n1iLv0EF8fxgZc_/view?usp=sharing
+  descr: 현재 해당 보시고 계신 블로그를 개편하면서 프로젝트 또한 함께 정리중이기 때문에, 우선 제 github과 resume의 참고를 부탁드리고 싶습니다. 아래의 DEMO를 누르면 resume을 확인하실 수 있습니다. 감사합니다.
+  demo: https://drive.google.com/file/d/1_M8xNS07Apj2tUrq2n1iLv0EF8fxgZc_/view?usp=sharing
   tags:
-    - tag: 현재 업뎃중
-    - tag: 조금만 기다려 주세요
+    - tag: 현재 업뎃중...!
+    - tag: 조금만 기다려 주세요 ㅠㅠ
     - tag: 빠른 시일 내에 찾아뵙겠습니다.
 
 # - name: project Y
