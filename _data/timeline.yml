@@ -17,47 +17,45 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: 캐치 & 팜
+- title: 아주대학교 입학
   title-url: https://example.com/
-  date: 2020.09.08 - Present
-  subtitle: 제가 여러 활동들을 진행하며 사람들을 만나고 다니다가 약학과의 한 선배님께서 사업 아이템이 있다고 같이 사업 제안을 해주셨습니다 그 내용은
-개개인에게 맞는 영양제를 추천해 주고 그 영양제를 단순히 구매하는 것이 아닌 직접 소분까지 하여 나만의 영양제를 만든다는 내용이었는데 저는 해
-당 아이템에서 안드로이드 앱 개발을 진행하기로 하였습니다 저희는 뜻이 맞는 팀원을 모아 정기적으로 회의를 하며 사업 계획서를 작성하게 되었고
-해당 활동을 진행하며 기획력을 한층 더 높일 수 있게 되었습니다
-
+  date: Apr 2019 - Present
+  subtitle: 고등학교때의 노력을 인정받아 SW특기자 전형을 통하여 아주대학교에 4년 전액 장학생으로 입학하게 됨. 대학교에서는 창업에 관련하여 여러가지 활동 및 대회를 나가며, 꿈을 이루기 위한 여러 도전을 진행하고 있음.
   tags:
-    - tag: Android studio
-    - tag: 사업 계획서 작성
+    - tag: Stanty라는 창업동아리를 설립하여 학교에서 약 4500$ 정도를 투자받음.
+    - tag: USWC라는 글로벌 대학생 창업 경진대회에 한국 대표팀으로 출전하게 됨.
+    - tag: 여러 종류의 창업관련 대회들에서 꾸준하게 입상을 하게되어, 2020년도에 창업마일리지 우수장학생으로 선정됨.
+    - tag: 여러 종류의 교수님, 멘토님, 대표님등 다양한 사람들과 이야기를 나누며 문제를 바라보는 시각을 넓힐 수 있었고, 체계적으로 해결 방안에 접근하는 법을 익히게 됨.
   timeline-side: right
 
-- title: Google
+- title: 선린 인터넷 고등학교 입학
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: Mar 2016 - Mar 2019
+  subtitle: 선린 인터넷 고등학교에 입학하여 여러 언어들과 프레임 워크를 다루는 법을 배움.\n해당 지식을 토대로 여러 대회에 참가하고 많은 종류의 대외 활동에 참가하면서, 문제 정의 능력과 해결방안을 내는 등 다양한 분야에서의 기획력을 크게 높이게 됨.
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: C, Python, Java등과 같은 다양한 언어 습득
+    - tag: Django, Native, Unity와 같은 다양한 프레임 워크의 개발 방법을 익힘
+    - tag: 여러 대회 및 활동에서 팀장(리더)로 활동하면서 기획자 및 개발자로서의 자질을 다짐
   timeline-side: left
 
-- title: Facebook
+- title: 성호중학교 입학
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  date: MAR 2013 - Feb 2016
+  subtitle: C 언어를 접하고 개발에 대한 흥미를 키우며 특성화고로 진학을 정함.
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: C 언어를 통한 간단한 개발
+    - tag: OCJP 자격증 습득
+    - tag: Android studio를 이용한 간단한 앱 제작 진행
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: 호동초등학교 입학
+  title-url: https://school.iamservice.net/organization/1695
+  date: Mar 2007 - Feb 2013
+  subtitle: 초등학생 때부터 스마트폰을 루팅하고 룸을 변경하는 등 꿈을 키움
   timeline-side: left
+
+- title: 출생
+  title-url: 
+  date: Mar 2000
+  subtitle: 서울의 한 병원에서 출생
+  timeline-side: right
