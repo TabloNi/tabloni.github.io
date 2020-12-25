@@ -3,12 +3,12 @@
 
 title: TabloNi
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: TabloNi
+description: TabloNi' description
+email: tabloni0719@ajou.ac.kr
+phone: +82-1037638651
+address: 206, World cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea
+copyright: Copyright &copy; 2020 Designed & Developed by [TabloNi](https://github.com/TabloNi)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Changhyun Nam <br> P.M & Softaware Developer
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -89,16 +89,20 @@ team:
     image : "assets/images/team/member-3.png"
     designation : "Designer"
 
+  - title : "Julias"
+    image : "assets/images/team/member-2.png"
+    designation : "Web Developer"
+
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Project Design, color: '#fdb157', value: '90%'}
+- {name: Android Studio, color: '#9473e6', value: '80%'}
+- {name: Adobe XD, color: '#bdecf6', value: '75%'}
+- {name: Premiere Pro, color: '#ffbcaa', value: '65%'}
 
 
 #-------------------------------
@@ -293,4 +297,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: tabloni0719@ajou.ac.kr
