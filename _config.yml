@@ -1,136 +1,131 @@
-### VALUES YOU SHOULD CHANGE ###
+# ### VALUES YOU SHOULD CHANGE ###
 
-# GENERAL SITE SETTINGS
-# title: This will be displayed as the website's name in your browser tab.
-title: TabloNi
-# description: This will be meta HTML tag content. This can be ignored.
-description: TabloNi's Personal website
-# baseurl: The subpath of your site
-# > set this to "", if you renamed the repository to <user>.github.io
-baseurl: ""
+# # GENERAL SITE SETTINGS
+# # title: This will be displayed as the website's name in your browser tab.
+# title: TabloNi
+# # description: This will be meta HTML tag content. This can be ignored.
+# description: TabloNi's Personal website
+# # baseurl: The subpath of your site
+# # > set this to "", if you renamed the repository to <user>.github.io
+# baseurl: ""
 
-# LANDING PAGE
-# username: This will displayed on the landing page as your name.
-username: TabloNi
-# typing_text: This will be typed before 'scroll down for more'.
-# > set this to your job title, e.g. Fullstack Developer
-typing_text: dreaming of a better world.
-# email: Your E-Mail address for the email button.
-email: tabloni0719@ajou.ac.kr
-# For every social button you want to display, set your username or userid
-# If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-github_username: TabloNi
-codepen_username: TabloNi
-dev_username: TabloNi
-linkedin_username: TabloNi
-facebook_username: TabloNi
-
-
+# # LANDING PAGE
+# # username: This will displayed on the landing page as your name.
+# username: TabloNi
+# # typing_text: This will be typed before 'scroll down for more'.
+# # > set this to your job title, e.g. Fullstack Developer
+# typing_text: dreaming of a better world.
+# # email: Your E-Mail address for the email button.
+# email: tabloni0719@ajou.ac.kr
+# # For every social button you want to display, set your username or userid
+# # If you do not use one of the following websites, then leave it empty
+# # > twitter_username:
+# github_username: TabloNi
+# codepen_username: TabloNi
+# dev_username: TabloNi
+# linkedin_username: TabloNi
+# facebook_username: TabloNi
 
 
-# ABOUT ME SECTION
-# show_aboutme_card:
-# > setting this to true, will display the About Me section
-# > setting this to false, will omit the About Me section
-show_aboutme_card: true
-# about_me_title: The will be displayed as the title in the About Me section
-about_me_title: 마이다스 아이티 포트폴리오
-# about_me_description: This will be displayed under the title.
-about_me_description: 안녕하십니까.
-  이번에 마이다스 아이티에 지원하게 된 남창현이라 합니다.
 
-  
-  저는 "스마트폰처럼 세상을 깜짝 놀라게 할만한 솔루션 개발" 라는 크면서도 꼭 이루고 싶은 멋진 꿈이 있습니다. 저는 이 꿈을 이루기 위하여 열심히 달려오던 중, 마이다스 아이티의 채용 공고를 보게 되었습니다. 해당 공고에는 "남들이 오글거려도 세상을 변화시키겠다 하는사람"을 찾는다는 글이 적혀져 있었는데, 저는 그 글을 보자마자 제가 여태것 한 노력과 이루고자 하는 목표가 마이다스 아이티라는 기업에 있다는 것을 알고 한눈에 반하게 되었습니다. 그 후에 마이다스 아이티에 관련된 여러 글이나 정보를 찾아보면서, 마이다스 아이티에 입사하면 "정말로 내가 이루고자 하는 꿈을 이룰 수 있겠다." 라는 확신이 들게 되었고, 마이다스 아이티에 주저없이 지원하게 되었습니다. 꼭 마이다시안이 되어서 마이다스 아이티와 함께 세상을 깜짝 놀라게 한다는 꿈을 이루고 싶습니다. 감사합니다.
 
-#저의 포트폴리오 자료들은 <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> 이곳 </a>에서 다운받으 실 수 있습니다. 
-# SKILLS SECTION
-# show_skills_card:
-# > setting this to true, will display the Skills section
-# > setting this to false, will omit the Skills section
-show_skills_card: true
-# about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+# # ABOUT ME SECTION
+# # show_aboutme_card:
+# # > setting this to true, will display the About Me section
+# # > setting this to false, will omit the About Me section
+# show_aboutme_card: true
+# # about_me_title: The will be displayed as the title in the About Me section
+# about_me_title:
+# # about_me_description: This will be displayed under the title.
+# about_me_description: 
+# #저의 포트폴리오 자료들은 <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> 이곳 </a>에서 다운받으 실 수 있습니다. 
+# # SKILLS SECTION
+# # show_skills_card:
+# # > setting this to true, will display the Skills section
+# # > setting this to false, will omit the Skills section
+# show_skills_card: true
+# # about_me_title: The will be displayed as the title in the Skills section
+# skills_title: Skills
 
-# TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
-show_timeline_card: true
-# timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Biography
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://drive.google.com/file/d/1_M8xNS07Apj2tUrq2n1iLv0EF8fxgZc_/view?usp=sharing
+# # TIMELINE SECTION
+# # show_timeline_card:
+# # > setting this to true, will display the Timeline section
+# # > setting this to false, will omit the Timeline section
+# show_timeline_card: true
+# # timeline_title: The will be displayed as the title in the Timeline section
+# timeline_title: Biography
+# # cv_download_link: The link where you host your cv.
+# # > e.g. you share your cv on your dropbox, then add the dropbox link here
+# cv_download_link: https://drive.google.com/file/d/1_M8xNS07Apj2tUrq2n1iLv0EF8fxgZc_/view?usp=sharing
 
-# PROJECTS SECTION
-# show_projects_card:
-# > setting this to true, will display the Projects section
-# > setting this to false, will omit the Projects section
-show_projects_card: true
-# show_projects:
-# > setting this to true, will display your listed projects in _data/projects.yml
-# > setting this to false, will omit your listed projects
-show_projects: true
-# projects_title: The will be displayed as the title of your projects
-projects_title: Projects
-# show_os_projects:
-# > setting this to true, will display your public projects on github
-# > setting this to false, will omit your public projects on github
-show_os_projects: true
-# os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Github Projects
+# # PROJECTS SECTION
+# # show_projects_card:
+# # > setting this to true, will display the Projects section
+# # > setting this to false, will omit the Projects section
+# show_projects_card: true
+# # show_projects:
+# # > setting this to true, will display your listed projects in _data/projects.yml
+# # > setting this to false, will omit your listed projects
+# show_projects: true
+# # projects_title: The will be displayed as the title of your projects
+# projects_title: Projects
+# # show_os_projects:
+# # > setting this to true, will display your public projects on github
+# # > setting this to false, will omit your public projects on github
+# show_os_projects: true
+# # os_projects_title: The will be displayed as the title of your open source projects
+# os_projects_title: Github Projects
 
-# CONTACT SECTION
-# show_contact_card:
-# > setting this to true, will display the Contact section
-# > setting this to false, will omit the Contact section
-show_contact_card: true
-# contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
-# contact_description: This will be displayed under the title.
-contact_description: 저는 언제나 새로운 도전을 하기를 좋아하고, 다양한 사람들과 의견을 나누며 아이디어를 설계하는 과정을 원하고 있습니다. 함께 하고 싶은 일이나 이야기를 나누어 보고 싶은 부분이 있다면, tabloni0719@ajou.ac.kr로 메일 주시면 언제나 빠르게 메일을 보내드리도록 하겠습니다. 감사합니다.
+# # CONTACT SECTION
+# # show_contact_card:
+# # > setting this to true, will display the Contact section
+# # > setting this to false, will omit the Contact section
+# show_contact_card: true
+# # contact_title: The will be displayed as the title in the Contact section
+# contact_title: Contact
+# # contact_description: This will be displayed under the title.
+# contact_description: 저는 언제나 새로운 도전을 하기를 좋아하고, 다양한 사람들과 의견을 나누며 아이디어를 설계하는 과정을 원하고 있습니다. 함께 하고 싶은 일이나 이야기를 나누어 보고 싶은 부분이 있다면, tabloni0719@ajou.ac.kr로 메일 주시면 언제나 빠르게 메일을 보내드리도록 하겠습니다. 감사합니다.
 
-# GITHUB-METADATA
-# Set this to your forked repository
-# > e.g. <user>/<user>.github.io
-repository: TabloNi/TabloNi.github.io
-projects:
-  # sortby:
-  # > set this to pushed, if you want to sort your github repositories by time.
-  # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
-  exclude:
-    # archived:
-    # > setting this to true, will exclude archived repositories
-    # > setting this to false, will also display archived repositories
-    archived: true
-    # forks:
-    # > setting this to true, will exclude forked repositories
-    # > setting this to false, will also display forked repositories
-    forks: true
-    # projects: A list of the repository names you want to exclude from the listing.
-    projects:
-    # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
+# # GITHUB-METADATA
+# # Set this to your forked repository
+# # > e.g. <user>/<user>.github.io
+# repository: TabloNi/TabloNi.github.io
+# projects:
+#   # sortby:
+#   # > set this to pushed, if you want to sort your github repositories by time.
+#   # > set this to stars, if you want to sort your github repositories by stars.
+#   sort_by: pushed
+#   exclude:
+#     # archived:
+#     # > setting this to true, will exclude archived repositories
+#     # > setting this to false, will also display archived repositories
+#     archived: true
+#     # forks:
+#     # > setting this to true, will exclude forked repositories
+#     # > setting this to false, will also display forked repositories
+#     forks: true
+#     # projects: A list of the repository names you want to exclude from the listing.
+#     projects:
+#     # - repo1-to-be-excluded
+#     # - repo2-to-be-excluded
 
-# GOOGLE-ANALYTICS
-# Set the id, if you want to track your website with Google Analytics
-# > set this to "", if you do not want to track with Google Analytics
-google-analytics:
-  id: "UA-158757509-2"
+# # GOOGLE-ANALYTICS
+# # Set the id, if you want to track your website with Google Analytics
+# # > set this to "", if you do not want to track with Google Analytics
+# google-analytics:
+#   id: "UA-158757509-2"
 
-### END OF VALUES YOU SHOULD CHANGE ###
+# ### END OF VALUES YOU SHOULD CHANGE ###
 
-plugins:
-  - "jekyll-github-metadata"
+# plugins:
+#   - "jekyll-github-metadata"
 
-exclude:
-  [
-    "_assets",
-    "Gemfile",
-    "Gemfile.lock",
-    "gulpfile.js",
-    "node_modules",
-    "package.json",
-  ]
+# exclude:
+#   [
+#     "_assets",
+#     "Gemfile",
+#     "Gemfile.lock",
+#     "gulpfile.js",
+#     "node_modules",
+#     "package.json",
+#   ]
