@@ -1,127 +1,34 @@
-# ### VALUES YOU SHOULD CHANGE ###
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# # GENERAL SITE SETTINGS
-# # title: This will be displayed as the website's name in your browser tab.
-# title: TabloNi
-# # description: This will be meta HTML tag content. This can be ignored.
-# description: TabloNi's Personal website
-# # baseurl: The subpath of your site
-# # > set this to "", if you renamed the repository to <user>.github.io
-# baseurl: ""
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
 
-# # LANDING PAGE
-# # username: This will displayed on the landing page as your name.
-# username: TabloNi
-# # typing_text: This will be typed before 'scroll down for more'.
-# # > set this to your job title, e.g. Fullstack Developer
-# typing_text: dreaming of a better world.
-# # email: Your E-Mail address for the email button.
-# email: tabloni0719@ajou.ac.kr
-# # For every social button you want to display, set your username or userid
-# # If you do not use one of the following websites, then leave it empty
-# # > twitter_username:
-# github_username: TabloNi
-# codepen_username: TabloNi
-# dev_username: TabloNi
-# linkedin_username: TabloNi
-# facebook_username: TabloNi
-# # ABOUT ME SECTION
-# # show_aboutme_card:
-# # > setting this to true, will display the About Me section
-# # > setting this to false, will omit the About Me section
-# show_aboutme_card: true
-# # about_me_title: The will be displayed as the title in the About Me section
-# about_me_title:
-# # about_me_description: This will be displayed under the title.
-# about_me_description: 
-# #저의 포트폴리오 자료들은 <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> 이곳 </a>에서 다운받으 실 수 있습니다. 
-# # SKILLS SECTION
-# # show_skills_card:
-# # > setting this to true, will display the Skills section
-# # > setting this to false, will omit the Skills section
-# show_skills_card: true
-# # about_me_title: The will be displayed as the title in the Skills section
-# skills_title: Skills
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
-# # TIMELINE SECTION
-# # show_timeline_card:
-# # > setting this to true, will display the Timeline section
-# # > setting this to false, will omit the Timeline section
-# show_timeline_card: true
-# # timeline_title: The will be displayed as the title in the Timeline section
-# timeline_title: Biography
-# # cv_download_link: The link where you host your cv.
-# # > e.g. you share your cv on your dropbox, then add the dropbox link here
-# cv_download_link: https://drive.google.com/file/d/1_M8xNS07Apj2tUrq2n1iLv0EF8fxgZc_/view?usp=sharing
+include:
+  - _pages
 
-# # PROJECTS SECTION
-# # show_projects_card:
-# # > setting this to true, will display the Projects section
-# # > setting this to false, will omit the Projects section
-# show_projects_card: true
-# # show_projects:
-# # > setting this to true, will display your listed projects in _data/projects.yml
-# # > setting this to false, will omit your listed projects
-# show_projects: true
-# # projects_title: The will be displayed as the title of your projects
-# projects_title: Projects
-# # show_os_projects:
-# # > setting this to true, will display your public projects on github
-# # > setting this to false, will omit your public projects on github
-# show_os_projects: true
-# # os_projects_title: The will be displayed as the title of your open source projects
-# os_projects_title: Github Projects
+sass:
+  sass_dir: assets/scss
+  style: compressed
 
-# # CONTACT SECTION
-# # show_contact_card:
-# # > setting this to true, will display the Contact section
-# # > setting this to false, will omit the Contact section
-# show_contact_card: true
-# # contact_title: The will be displayed as the title in the Contact section
-# contact_title: Contact
-# # contact_description: This will be displayed under the title.
-# contact_description: 저는 언제나 새로운 도전을 하기를 좋아하고, 다양한 사람들과 의견을 나누며 아이디어를 설계하는 과정을 원하고 있습니다. 함께 하고 싶은 일이나 이야기를 나누어 보고 싶은 부분이 있다면, tabloni0719@ajou.ac.kr로 메일 주시면 언제나 빠르게 메일을 보내드리도록 하겠습니다. 감사합니다.
-
-# # GITHUB-METADATA
-# # Set this to your forked repository
-# # > e.g. <user>/<user>.github.io
-# repository: TabloNi/TabloNi.github.io
-# projects:
-#   # sortby:
-#   # > set this to pushed, if you want to sort your github repositories by time.
-#   # > set this to stars, if you want to sort your github repositories by stars.
-#   sort_by: pushed
-#   exclude:
-#     # archived:
-#     # > setting this to true, will exclude archived repositories
-#     # > setting this to false, will also display archived repositories
-#     archived: true
-#     # forks:
-#     # > setting this to true, will exclude forked repositories
-#     # > setting this to false, will also display forked repositories
-#     forks: true
-#     # projects: A list of the repository names you want to exclude from the listing.
-#     projects:
-#     # - repo1-to-be-excluded
-#     # - repo2-to-be-excluded
-
-# # GOOGLE-ANALYTICS
-# # Set the id, if you want to track your website with Google Analytics
-# # > set this to "", if you do not want to track with Google Analytics
-# google-analytics:
-#   id: "UA-158757509-2"
-
-# ### END OF VALUES YOU SHOULD CHANGE ###
-
-# plugins:
-#   - "jekyll-github-metadata"
-
-# exclude:
-#   [
-#     "_assets",
-#     "Gemfile",
-#     "Gemfile.lock",
-#     "gulpfile.js",
-#     "node_modules",
-#     "package.json",
-#   ]
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.text
+  - README.md
+  - SECURITY.md

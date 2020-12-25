@@ -1,6 +1,5 @@
-source "https://rubygems.org"
-
-gem "dotenv"
-gem "github-pages"
-gem "jekyll"
-gem "jekyll-github-metadata"
+source 'https://rubygems.org'
+gem 'bundler'
+gem 'jekyll'
+gem 'jekyll-sitemap'
+gem 'wdm', '>= 0.1.0'
