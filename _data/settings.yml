@@ -51,11 +51,9 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+blurb: Hello! My name is ChangHyun Nam a.k.a TabloNi. Student at ajou university. I mainly develop Android apps and project manager activities, and I am working on various activities with the aim of starting a startup. Thank you for visiting my blog. Have a nice day!
 blurb-btn-link: '/about'
-blurb-btn-name: know more
+blurb-btn-name: know more about me!
 
 
 # About Page
@@ -118,12 +116,17 @@ experience:
 #-------------------------------
 # Education Section
 
-education-title: Education
+education-title: Awards
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: 2017 한국정보올림피아드 공모부문 동상, date: '2017.11.24', organization: '미래정부장관'}
+- {name: 2019 스마트 서울 앱 공모전 발전상(220팀중 4등), date: '2019.11.08', organization: '서울디지털재단'}
+- {name: 2020 제 1회 대학연합창업캠프 서바이벌 오디션 최우수상, date: '2020.01.22', organization: '대학 연합 LINC+ 사업단'}
+- {name: 파란학기 Zero to one 상(금상), date: '2020.06.11', organization: '아주대학교 대학교육혁신원'}
+- {name: 2020 제 4회 LINC+ 창업 아이디어경진대회 장려상, date: '2020.06.26', organization: '아주대학교 창업교육센터'}
+- {name: 2020 제 4회 LINC+ 창업 아이디어경진대회 우수상, date: '2020.06.26', organization: '아주대학교 창업교육센터'}
+- {name: 2020 청사진 청년 아이디어 톤 최우수상, date: '2020.07.26', organization: '수원시 의회 의장'}
+- {name: 2020 제 5회 LINC+ 창업 아이디어경진대회 최우수상, date: '2020.12.11', organization: '사회맞춤형 산학협력 선도대학 육성사업단'}
+
 
 
 #-------------------------------
