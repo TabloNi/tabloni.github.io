@@ -108,24 +108,31 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: 성호중학교 일반 전형, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: '졸업'}
+- {name: 선린인터넷고등학교 특별 전형, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: '졸업'}
+- {name: 아주대학교 소프트웨어학과 SW특기자 전형, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: '전액 장학금 지원 - 재학'}
+- {name: 상명대학교 앱 개발교육, icon: 'icon-1.png', date: '2016.07.23 - 2016.08.09', organization: '상명대학교 총장'}
+- {name: 순천향대학교 앱 개발교육, icon: 'icon-1.png', date: '2018.07.15 - 2018.08.09', organization: '순천향대학교 총장'}
+- {name: 2019 스마트서울 모바일 앱 사업화 멘토링 교육, icon: 'icon-1.png', date: '2019.11.14 - 2019.11.15', organization: '서울 디지털 재단'}
+- {name: 2019 문제발견형 DTDesign Thinking 캠프 교육, icon: 'icon-1.png', date: '2019.12.30 - 2019.12.31', organization: '아주대학교 공학교육혁신센터'}
+- {name: 2020 대학 연합 창업 캠프 소양집중교육 워크숍, icon: 'icon-1.png', date: '2020.01.02 - 2020.01.04', organization: '대학 연합 LINC+ 사업단'}
+- {name: 2020 산업용 3D스캐너를 활용한 Solidworks 역설계 교육, icon: 'icon-1.png', date: '2020.06.26 ~ 2020.06.28', organization: '아주대학교 창업지원단'}
+- {name: 2020 ZBrush를 활용한 피규어 제작 교육, icon: 'icon-1.png', date: '2020.07.11 - 2020.07.12', organization: '아주대학교 창업지원단'}
+- {name: 2020 SW 융합 창업 캠프, icon: 'icon-1.png', date: '2020.06.01 ~ 2020.06.27', organization: '아주대학교 SW중심대학사업단'}
+- {name: 2020 - 1 파란학기 수료, icon: 'icon-1.png', date: '2020.03.11 ~ 2020.08.24', organization: '아주대학교 대학교육혁신원'}
 
 
 #-------------------------------
 # Education Section
 
-education-title: Awards
+education-title: Education & Patent
 education:
-- {name: 2017 한국정보올림피아드 공모부문 동상, date: '2017.11.24', organization: '미래정부장관'}
-- {name: 2019 스마트 서울 앱 공모전 발전상(220팀중 4등), date: '2019.11.08', organization: '서울디지털재단'}
-- {name: 2020 제 1회 대학연합창업캠프 서바이벌 오디션 최우수상, date: '2020.01.22', organization: '대학 연합 LINC+ 사업단'}
-- {name: 파란학기 Zero to one 상(금상), date: '2020.06.11', organization: '아주대학교 대학교육혁신원'}
-- {name: 2020 제 4회 LINC+ 창업 아이디어경진대회 장려상, date: '2020.06.26', organization: '아주대학교 창업교육센터'}
-- {name: 2020 제 4회 LINC+ 창업 아이디어경진대회 우수상, date: '2020.06.26', organization: '아주대학교 창업교육센터'}
-- {name: 2020 청사진 청년 아이디어 톤 최우수상, date: '2020.07.26', organization: '수원시 의회 의장'}
-- {name: 2020 제 5회 LINC+ 창업 아이디어경진대회 최우수상, date: '2020.12.11', organization: '사회맞춤형 산학협력 선도대학 육성사업단'}
+- {name: TOPCIT(ICT역량지수평가) 수준3(400점 이상), date: '2020.06.20', organization: '한국생산성본부'}
+- {name: OCJP(Oracle Certified Java Programmer), date: '2015.11.07', organization: 'ORACLE'}
+- {name: 정보처리기능사, date: '2018.07.18', organization: '과학기술정보통신부'}
+- {name: 아래 한글 A등급, date: '2015.10.01', organization: '한국생산성본부'}
+- {name: IoT를 기반으로 한 스마트 안전벨트 커넥터, date: '2020.03.23', organization: '특허 출원'}
+- {name: IoT를 기반으로 한 스마트 안전벨트 시스템, date: '2020.03.23', organization: '특허 출원'}
 
 
 
