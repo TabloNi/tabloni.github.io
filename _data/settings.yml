@@ -4,7 +4,7 @@
 title: TabloNi
 logo: 
 author: TabloNi
-description: TabloNi' description
+description: TabloNi's personal blog.
 email: tabloni0719@ajou.ac.kr
 phone: +82-1037638651
 address: 206, World cup-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do, Republic of Korea
@@ -246,20 +246,47 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "2017 한국정보올림피아드 공모부문 동상"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation : "2017.11.24 미래정부장관상"
+    content : "고등학교 2 학년 때 여러 대회에 참가하며 다른 대회를 모색하던 중 한국 정보 올림피아드 공모 부문에 뜻이 맞는 팀원들을 모아 참가하게 되었습 니다 대회의 주제는 `더 나은 사회를 위한 SW 아이디어` 였는데 팀장이자 메인 기획자였던 저는 현재 긍정적이기보다는 부정적으로 더 많이 인 식되고 있으나 앞으로 더욱 중요한 시장으로 떠오를 `게임`이라는 주제로 참가하여 게임이 꼭 나쁘지만은 않다는 것을 증명하고 싶었습니다 그래 서 메인 주제를 게임으로 잡아 기획한 결과 본선에 당당히 진출하게 되었습니다 저희가 기획한 게임은 리듬게임이었는데 키보드와 마우스를 동 시에 이용하는 방식이었습니다 개발은 window 를 기본 플랫폼으로 잡아 메인 게임은 다이렉트 X 를 이용하며 자체 엔진을 개발하였고 유저가 직 접 채보를 찍을 수 있는 프로그램은 앱을 통하여 제작할 수 있게 만들었습니다 저는 메인 기획 및 세부 기획 엔진 제작의 서브 개발과 유저가 직접 채보를 찍는 앱 개발을 하였습니다 발표일이 다가옴에 따라 팀장으로서 발표를 맡은 저는 많이 긴장되고 두렵기까지 했지만 팀의 기획과 서비스 개발을 믿고 자신감 있게 발표하려고 노력했습니다 발표는 성공적이었습니다 프레젠테이션 능력이 뛰어나다는 칭찬을 받고 `게임`이라는 주제 를 통해 더 나은 사회를 만들 수 있다는 것도 증명하였습니다 저는 제 자신이 무척 자랑스러웠고 많은 부분에서 발전하였다고 느낄 수 있엇습니다."
+
+  - name: "2019 스마트 서울 앱 공모전 발전상(220팀중 4등)"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "2019.11.08 서울디지털재단 이사장상"
+    content: "제가 아주대학교에 입학한 후 Android를 더 폭넓게 공부하고 오픈소스 기반의 개발을 진행해 보기 위하여 오픈소스 스터디를 제작하고 활동하게 되었습니다 오픈소스 스터디를 활동하던 도중 저희 Android 팀은 목표를 가지고 개발 활동을 하기 위하여 대회를 찾아 나가기로 하였습니다 그 러던 중 2019 스마트 서울 앱 공모전이라는 대회를 찾게 되었고 공공데이터를 이용하여 개발을 하는 점이 오픈소스를 함께 개발하는 데 있어서 취 지가 맞을 거 같아 참여하게 되었습니다 당시 공모전의 주제는 `서울시와 관련된 공익성을 담은 작품 제작` 이 주제였습니다 저희는 우선적으로 서울시에 있는 공공적인 문제를 해결하기로 하고 다양한 문제를 접하고 그에 대한 솔루션을 제작하기 위하여 시민들에게 설문조사를 진행했습니 다 다양한 설문조사 끝에 저희는 서울시 내의 환경문제가 급 부상하고 있다는 점을 알게 되었습니다 이에 저희는 쓰레기통 정보가 공공데이터 포 탈에 올라와 있다는 생각을 하게 되었고 서울시의 환경을 지킬 수 있는 솔루션 `어따버려`를 제작하게 되었습니다 어따버려는 터치 한 번으로 간 단하게 주변 쓰레기통 위치를 찾을 수 있고 서울시에 직접 환경 관련 문의를 건의할 수 있으며 쓰레기를 버림으로써 얻는 포인트를 통하여 쓰레기 봉투를 살 수 있는 등 다양한 환경 문제를 해결할 수 있는 솔루션입니다 저희는 이 어따버려를 AndroidKotlin 및 firebase로 제작하였고 심사 때 좋은 평을 받으며 220팀 4등을 하며 수상할 수 있게 되었습니다 현재는 서울시 구청 및 서울시 기후환경본부와 협업하여 더 깨끗하고 스마트 한 도 시를 만들기 위하여 노력하고 있습니다."
+
+  - name: "2020 제 1회 대학연합창업캠프 서바이벌 오디션 최우수상"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "2020.01.22 대학 연합 LINC+ 사업단장상"
+    content: "제가 대학교 1학년 겨울 방학 때 아주대학교와 성균관대학교가 연합하여 대학연합창업캠프를 진행한다는 소식을 듣게 되었습니다 당시에 창업에 관심이 많았던 저는 주저 없이 대회에 지원하게 되었고 성균관 대학교 학생들과 함께 팀 빌딩을 진행하여 창업 캠프를 진행하게 되었습니다 캠프 는 1차로 KB 수원 인재니 움의 내부 건물에서 4박 5일 동안 진행되었고 그 이후 2차에서는 아주대학교와 성균관대학교에서 각각 강의가 열리며 1 차에서 합격한 팀들만 살아남아 서바이벌 방식으로 오디션을 진행하는 방식이었습니다 캠프의 최종 목표는 창업에 대해 여러 교육을 받으며 아이 디어를 내고 최종적으로 IR 피칭을 진행하는 것이었습니다 저희 팀은 스마트 안전벨트 커넥터라는 아이템을 가지고 캠프를 진행하게 되었고 3D 프린터 및 안드로이드 스튜디오 등을 이용하여 프로토타입을 제작하여 발표를 진행한 뒤 당당하게 모든 팀들 중 1위인 최우수상을 수상하게 되었 습니다."
     
-  - name: "Jesica Gomez"
+  - name: "2020 제 4회 LINC+ 창업 아이디어경진대회 장려상"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
+    designation: "2020.06.26 아주대학교 창업교육센터장상"
+    content: "위에서 언급한 아주대학교 창업교육센터에서 진행하는 창업 아이디어 경진대회를 기존에 운영하는 창업 동아리에서 아이디어를 개편하여 출전하 게 되었습니다 저희는 그곳에서 저희의 기존의 아이디어에 다양한 시도를 하며 많은 결과를 내게 되었고 그 결과 장려상을 수상할 수 있었습니다."
+ 
+  - name: "파란학기 Zero to one 상 금상"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "2020.06.11 아주대학교 대학교육혁신원장상"
+    content: "아주대학교에는 한 학기 동안 자신이 직접 기획한 아이디어를 가지고 팀을 꾸려 프로젝트를 진행하면 과목으로 인정받아 학점을 받을 수 있는 파 란 학기라는 제도가 있습니다 저는 당뇨병 환자들과 같이 매일 정해진 시간에 약을 먹어야 하는 사람들이 복약순응도가 낮다는 문제를 해결하고자 2020년도 1학기에 파란 학기에 참여하게 되었습니다 저희는 해당 목표를 해결하기 위하여 소프트웨어학과 미디어학과 기계공학 학과 의예과 약학과 등 다양한 과에서 사람을 모으게 되었고 EleverD라는 팀을 결성하게 되었습니다 저희는 해당 문제를 해결하기 위하여 복약순응도 향상을 위한 소책자 제작 & 전자 복약 모니터링 기기 및 앱 개발이라는 목표를 정하게 되었고 저는 총괄 개발 팀장 역할을 맡아 스마트폰 앱 개발 및 스마 트 약통 개발을 진행하게 되었습니다 1학기 동안 진행하는 긴 프로젝트인 만큼 저는 여러 교수님 및 멘토 분들과 만나 다양한 이야기를 나누며 프 로젝트를 진행해 나갔고 최종 발표 때 목표였던 복약순응도 향상이라는 주제를 성공적으로 달성할 수 있다는 결과를 발표하며 무에서 유를 창조하 였다는 Zero to one 상을 수상하게 되었습니다."
+
+  - name: "2020 제 4회 LINC+ 창업 아이디어경진대회 우수상"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "2020.06.26 아주대학교 창업교육센터장상"
+    content: "아주대학교의 창업교육센터에서는 매년 창업 아이디어 경진대회를 열고 수상자들에게 특허 출원 및 사업화에 대한 여러 가지 도움을 주고 있습니 다 저는 이 대회에 SUBEE라는 동아리의 팀원들과 함께 아이디어를 검증하기 위하여 참여하게 되었습니다 저희의 아이디어는 프랜차이즈 카페 에는 기본적으로 구성되어 있는 IT 인프라를 개인 카페에도 도입할 수 있도록 하여 개인 카페들과 지역마다의 시장 경제를 키우는 것이었습니다 저희는 이 아이디어를 시뮬레이션 한 결과 지역의 경제와 개인 카페 상권을 살릴 수 있다는 결과를 얻게 되었고 이에 창업 아이디어 경진대회에서 우수상을 수상하게 되었습니다."
+
+  - name: "2020 청사진 청년 아이디어 톤 최우수상"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "2020.07.26 수원시 의회 의장상"
+    content: "청사진 협동조합이라는 단체에서 수원시와 협력하여 아이디어 톤을 개최한다는 소식을 듣고 참여하게 되었습니다 저희 팀은 사회에 새로 적용시 킬 수 있는 교통안전 관련 IT 인프라 기술을 제시하였고 현재 일어나고 있는 교통에 관련된 여러 문제를 해결할 수 있을 것이라는 좋은 평가를 받으 며 최우수상을 수상하게 되었습니다."
+
+  - name: "2020 제5회 LINC+ 창업 아이디어경진대회 최우수상"
+    image: "assets/images/testimonial/client-1.png"
+    designation: "2020.12.11 사회맞춤형 산학협력 선도대학 육성사업단장상"
+    content: "아주대학교에는 한 학기 동안 자신이 직접 기획한 아이디어를 가지고 팀을 꾸려 프로젝트를 진행하면 과목으로 인정받아 학점을 받을 수 있는 파 란 학기라는 제도가 있습니다 저는 당뇨병 환자들과 같이 매일 정해진 시간에 약을 먹어야 하는 사람들이 복약순응도가 낮다는 문제를 해결하고자 2020년도 1학기에 파란 학기에 참여하게 되었습니다 저희는 해당 목표를 해결하기 위하여 소프트웨어학과 미디어학과 기계공학 학과 의예과 약학과 등 다양한 과에서 사람을 모으게 되었고 EleverD라는 팀을 결성하게 되었습니다 저희는 해당 문제를 해결하기 위하여 복약순응도 향상을 위한 소책자 제작 & 전자 복약 모니터링 기기 및 앱 개발이라는 목표를 정하게 되었고 저는 총괄 개발 팀장 역할을 맡아 스마트폰 앱 개발 및 스마 트 약통 개발을 진행하게 되었습니다 1학기 동안 진행하는 긴 프로젝트인 만큼 저는 여러 교수님 및 멘토 분들과 만나 다양한 이야기를 나누며 프 로젝트를 진행해 나갔고 최종 발표 때 목표였던 복약순응도 향상이라는 주제를 성공적으로 달성할 수 있다는 결과를 발표하며 무에서 유를 창조하 였다는 Zero to one 상을 수상하게 되었습니다."
+
+
 
 
 #-------------------------------
